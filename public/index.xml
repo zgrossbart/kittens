@@ -6,7 +6,7 @@
     <description>Recent content on All the Kittens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2019 08:54:06 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2019 08:56:06 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>We love kittens</title>
       <link>/posts/my-first-post/</link>
-      <pubDate>Fri, 17 May 2019 08:54:06 -0400</pubDate>
+      <pubDate>Fri, 17 May 2019 08:56:06 -0400</pubDate>
       
       <guid>/posts/my-first-post/</guid>
-      <description>We love kittens</description>
+      <description>We love kittens in all shapes and sizes. Kittens are the best.</description>
     </item>
     
     <item>
@@ -26,16 +26,25 @@
       <pubDate>Fri, 17 May 2019 08:53:06 -0400</pubDate>
       
       <guid>/posts/kitten7/</guid>
-      <description>Kittens everywhere</description>
+      <description>Kittens are everywhere. All over the place. All the time. The world is made of kittens.</description>
+    </item>
+    
+    <item>
+      <title>Fake kitten</title>
+      <link>/posts/fake-kitten/</link>
+      <pubDate>Fri, 17 May 2019 08:52:06 -0400</pubDate>
+      
+      <guid>/posts/fake-kitten/</guid>
+      <description>Watch out for fake kittens. They&amp;rsquo;re lurking everywhere.</description>
     </item>
     
     <item>
       <title>So many kittens</title>
       <link>/posts/kitten6/</link>
-      <pubDate>Fri, 17 May 2019 08:53:06 -0400</pubDate>
+      <pubDate>Fri, 17 May 2019 08:50:06 -0400</pubDate>
       
       <guid>/posts/kitten6/</guid>
-      <description>There are so many kittens</description>
+      <description>There are so many kittens everywhere. Your house, your work, your school, kittens are everywhere.</description>
     </item>
     
     <item>
@@ -44,7 +53,7 @@
       <pubDate>Fri, 17 May 2019 08:45:06 -0400</pubDate>
       
       <guid>/posts/kitten5/</guid>
-      <description>Beware the claws</description>
+      <description>Beware the claws. Kittens look cute, but four out of five sides of them are sharp.</description>
     </item>
     
     <item>
@@ -53,7 +62,7 @@
       <pubDate>Fri, 17 May 2019 08:45:06 -0400</pubDate>
       
       <guid>/posts/kitten3/</guid>
-      <description>Beware the soft belly</description>
+      <description>Beware the soft belly. It looks so tempting and soft, but the claws are so sharp.</description>
     </item>
     
     <item>
@@ -62,7 +71,7 @@
       <pubDate>Fri, 17 May 2019 08:45:06 -0400</pubDate>
       
       <guid>/posts/kitten4/</guid>
-      <description>They are so cute and derpy</description>
+      <description>A kitten doesn&amp;rsquo;t care what you look like or what you do. Kittens don&amp;rsquo;t care. They dance like nobody is watching and eat all the string of the world.</description>
     </item>
     
     <item>
@@ -71,7 +80,7 @@
       <pubDate>Fri, 17 May 2019 08:44:06 -0400</pubDate>
       
       <guid>/posts/kitten2/</guid>
-      <description>They grow up to be little murder beasts</description>
+      <description>They start out looking cute, but they grow up to be aloof little murder beasts.</description>
     </item>
     
   </channel>
