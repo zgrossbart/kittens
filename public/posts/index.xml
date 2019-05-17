@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on All the Kittens</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on All the Kittens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 May 2019 08:54:06 -0400</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We love kittens</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Fri, 17 May 2019 08:54:06 -0400</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>We love kittens</description>
+    </item>
+    
+    <item>
+      <title>Beware the claws</title>
+      <link>/posts/kitten5/</link>
+      <pubDate>Fri, 17 May 2019 08:45:06 -0400</pubDate>
+      
+      <guid>/posts/kitten5/</guid>
+      <description>Beware the claws</description>
+    </item>
+    
+    <item>
+      <title>Beware the soft belly</title>
+      <link>/posts/kitten3/</link>
+      <pubDate>Fri, 17 May 2019 08:45:06 -0400</pubDate>
+      
+      <guid>/posts/kitten3/</guid>
+      <description>Beware the soft belly</description>
+    </item>
+    
+    <item>
+      <title>So cute and derpy</title>
+      <link>/posts/kitten4/</link>
+      <pubDate>Fri, 17 May 2019 08:45:06 -0400</pubDate>
+      
+      <guid>/posts/kitten4/</guid>
+      <description>They are so cute and derpy</description>
+    </item>
+    
+    <item>
+      <title>Murder beasts</title>
+      <link>/posts/kitten2/</link>
+      <pubDate>Fri, 17 May 2019 08:44:06 -0400</pubDate>
+      
+      <guid>/posts/kitten2/</guid>
+      <description>They grow up to be little murder beasts</description>
+    </item>
+    
+  </channel>
+</rss>
