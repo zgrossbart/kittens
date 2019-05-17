@@ -5,6 +5,6 @@ draft: false
 featured_image: "/kitten7.jpg"
 ---
 
-Kittens everywhere
+Kittens are everywhere.  All over the place.  All the time.  The world is made of kittens. 
 
 ![Kitten](/kitten7.jpg)

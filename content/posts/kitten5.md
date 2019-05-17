@@ -5,6 +5,6 @@ draft: false
 featured_image: "/kitten5.jpg"
 ---
 
-Beware the claws
+Beware the claws.  Kittens look cute, but four out of five sides of them are sharp.
 
 ![Kitten](/kitten5.jpg)

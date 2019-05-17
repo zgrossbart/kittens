@@ -1,0 +1,5 @@
+.bg-black {
+  background-image: url("/kitten-back.jpg");
+  background-repeat: no-repeat;
+  background-position: top right;
+}

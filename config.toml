@@ -1,3 +1,6 @@
 languageCode = "en-us"
 title = "All the Kittens"
 theme = "ananke"
+
+[params]
+  custom_css = ["css/kitten.css"]

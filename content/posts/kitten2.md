@@ -5,6 +5,6 @@ draft: false
 featured_image: "/kitten2.jpg"
 ---
 
-They grow up to be little murder beasts
+They start out looking cute, but they grow up to be aloof little murder beasts.
 
 ![Kitten](/kitten2.jpg)

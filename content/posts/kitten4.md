@@ -5,6 +5,6 @@ draft: false
 featured_image: "/kitten4.jpg"
 ---
 
-They are so cute and derpy
+A kitten doesn't care what you look like or what you do.  Kittens don't care.  They dance like nobody is watching and eat all the string of the world.
 
 ![Kitten](/kitten4.jpg)
