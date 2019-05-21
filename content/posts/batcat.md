@@ -5,6 +5,6 @@ draft: false
 featured_image: "/batcat.jpg"
 ---
 
-Shun kitten hybrids.  Cat/bat food is way too expensive.
+Shun kitten hybrids.  Cat/bat food is way too expensive and they keep getting stuck in the ceiling fan.
 
 ![Kitten](/batcat.jpg)
