@@ -4,3 +4,4 @@ theme = "ananke"
 
 [params]
   custom_css = ["css/kitten.css"]
+  recent_posts_number = 20
