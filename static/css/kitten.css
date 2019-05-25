@@ -1,5 +1,14 @@
+footer.bg-black a {
+  display: none;
+}
+
+footer.bg-black {
+	height: 5rem;
+}
+
 .bg-black {
   background-image: url("/kitten-back.jpg");
   background-repeat: no-repeat;
   background-position: top right;
 }
+
